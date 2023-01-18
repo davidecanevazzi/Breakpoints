@@ -1,4 +1,4 @@
-
+#before running cat -n file_name-paf | sort -uk2 | sort -n | cut -f2-
 import re
 if __name__ == '__main__':
     save=[]
